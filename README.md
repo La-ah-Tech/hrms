@@ -47,8 +47,8 @@ Frappe HR has everything you need to drive excellence within the company. It's a
 ### Manual Installation
 
 1. [Install bench](https://github.com/frappe/bench).
-2. [Install ERPNext](https://github.com/frappe/erpnext#installation).
-3. Once ERPNext is installed, add the hrms app to your bench by running
+2. [Install LaahTech-EM](https://github.com/frappe/erpnext#installation).
+3. Once LaahTech-EM is installed, add the hrms app to your bench by running
 
 	```sh
 	$ bench get-app hrms
@@ -62,7 +62,7 @@ Frappe HR has everything you need to drive excellence within the company. It's a
 ## Learning and Community
 
 1. [Documentation](https://docs.frappe.io/hr) - Extensive documentation for Frappe HR.
-2. [User Forum](https://discuss.erpnext.com/) - Engage with the community of ERPNext users and service providers.
+2. [User Forum](https://discuss.erpnext.com/) - Engage with the community of LaahTech-EM users and service providers.
 3. [Telegram Group](https://t.me/frappehr) - Get instant help from the community of users.
 
 ## Contribute

@@ -865,10 +865,10 @@ Expired Leaves,Verfallende Abwesenheiten,
 <b>Total Leaves Allocated</b> are more than the number of days in the allocation period,<b>Die Gesamtzahl der zugewiesenen Abwesenheiten</b> ist größer als die Anzahl der Tage im Zuweisungszeitraum,
 "<h3>Data Import</h3>
 
-Data import is the tool to migrate your existing data like Employee, Customer, Supplier, and a lot more to our ERPNext system.
+Data import is the tool to migrate your existing data like Employee, Customer, Supplier, and a lot more to our LaahTech-EM system.
 Go through the video for a detailed explanation of this tool.","<h3>Datenimport</h3>
 
-Der Datenimport ist das Tool, mit dem Sie Ihre vorhandenen Daten wie Mitarbeiter, Kunden, Lieferanten und vieles mehr in unser ERPNext-System migrieren können.
+Der Datenimport ist das Tool, mit dem Sie Ihre vorhandenen Daten wie Mitarbeiter, Kunden, Lieferanten und vieles mehr in unser LaahTech-EM-System migrieren können.
 Sehen Sie sich das Video an, um eine detaillierte Erklärung dieses Tools zu erhalten.",
 "<h3>Employee</h3>
 
@@ -882,9 +882,9 @@ Hr Settings consists of major settings related to Employee Lifecycle, Leave Mana
 HR-Einstellungen bestehen aus wichtigen Einstellungen im Zusammenhang mit dem Mitarbeiterlebenszyklus, der Urlaubsverwaltung usw. Klicken Sie auf „Erkunden“, um die HR-Einstellungen zu erkunden.",
 "<h3>Holiday List.</h3>
 
-Holiday List is a list which contains the dates of holidays. Most organizations have a standard Holiday List for their employees. However, some of them may have different holiday lists based on different Locations or Departments. In ERPNext, you can configure multiple Holiday Lists.","<h3>Liste der arbeitsfreien Tage.</h3>
+Holiday List is a list which contains the dates of holidays. Most organizations have a standard Holiday List for their employees. However, some of them may have different holiday lists based on different Locations or Departments. In LaahTech-EM, you can configure multiple Holiday Lists.","<h3>Liste der arbeitsfreien Tage.</h3>
 
-Die Liste der arbeitsfreien Tage ist eine Liste, die die Daten der Feiertage enthält. Die meisten Unternehmen haben eine Standardliste der arbeitsfreien Tage für ihre Mitarbeiter. Einige von ihnen haben jedoch je nach Standort oder Abteilung unterschiedliche Listen der arbeitsfreien Tage. In ERPNext können Sie mehrere Listen der arbeitsfreien Tage konfigurieren.",
+Die Liste der arbeitsfreien Tage ist eine Liste, die die Daten der Feiertage enthält. Die meisten Unternehmen haben eine Standardliste der arbeitsfreien Tage für ihre Mitarbeiter. Einige von ihnen haben jedoch je nach Standort oder Abteilung unterschiedliche Listen der arbeitsfreien Tage. In LaahTech-EM können Sie mehrere Listen der arbeitsfreien Tage konfigurieren.",
 "<h3>Leave Allocation</h3>
 
 Leave Allocation enables you to allocate a specific number of leaves of a particular type to an Employee so that, an employee will be able to create a Leave Application only if Leaves are allocated. ","<h3>Abwesenheitskontingent</h3>
@@ -1888,7 +1888,7 @@ Vehicle Expenses,Fahrzeugkosten,
 View,Ansicht,
 View Goals,Ziele ansehen,
 View Ledger,Hauptbuch anzeigen,
-WARNING: Loan Management module has been separated from ERPNext.,WARNUNG: Das Modul Darlehensverwaltung wurde von ERPNext getrennt.,
+WARNING: Loan Management module has been separated from LaahTech-EM.,WARNUNG: Das Modul Darlehensverwaltung wurde von LaahTech-EM getrennt.,
 Warning,Warnung,
 Warning: Insufficient leave balance for Leave Type {0} in this allocation.,Warnung: Unzureichender Urlaubssaldo für die Abwesenheitsart {0} in diesem Kontingent.,
 Warning: Insufficient leave balance for Leave Type {0}.,Warnung: Unzureichender Urlaubssaldo für die Abwesenheitsart {0}.,

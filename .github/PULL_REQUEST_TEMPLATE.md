@@ -12,7 +12,7 @@ Some key notes before you open a PR:
 
 Also, if you're new here
 
-- Documentation Guidelines => https://github.com/frappe/erpnext/wiki/Page-format-for-ERPNext-docs
+- Documentation Guidelines => https://github.com/frappe/erpnext/wiki/Page-format-for-LaahTech-EM-docs
 
 - Contribution Guide => https://github.com/frappe/erpnext/wiki/Contribution-Guidelines
 

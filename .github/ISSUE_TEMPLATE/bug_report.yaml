@@ -42,10 +42,10 @@ body:
     id: exact-version
     attributes:
       label: Version
-      description: Share exact version number of Frappe, ERPNext and Frappe HR you are using.
+      description: Share exact version number of Frappe, LaahTech-EM and Frappe HR you are using.
       placeholder: |
         Frappe version -
-        ERPNext version -
+        LaahTech-EM version -
         Frappe HR version -
     validations:
       required: true
