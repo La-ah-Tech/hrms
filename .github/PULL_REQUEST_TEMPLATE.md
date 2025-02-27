@@ -12,11 +12,11 @@ Some key notes before you open a PR:
 
 Also, if you're new here
 
-- Documentation Guidelines => https://github.com/frappe/erpnext/wiki/Page-format-for-LaahTech-EM-docs
+- Documentation Guidelines => https://github.com/La-ah-Tech/erpnext/wiki/Page-format-for-LaahTech-EM-docs
 
-- Contribution Guide => https://github.com/frappe/erpnext/wiki/Contribution-Guidelines
+- Contribution Guide => https://github.com/La-ah-Tech/erpnext/wiki/Contribution-Guidelines
 
-- Pull Request Checklist => https://github.com/frappe/erpnext/wiki/Pull-Request-Checklist
+- Pull Request Checklist => https://github.com/La-ah-Tech/erpnext/wiki/Pull-Request-Checklist
 
 -->
 

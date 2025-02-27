@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://github.com/frappe/erpnext",
+        "url": "https://github.com/La-ah-Tech/erpnext",
         "branch": "laahtech-em"
     },
     {
-        "url": "https://github.com/frappe/payments",
+        "url": "https://github.com/La-ah-Tech/payments",
         "branch": "laahtech-em"
     },
     {
-        "url": "https://github.com/frappe/hrms",
+        "url": "https://github.com/La-ah-Tech/hrms",
         "branch": "laahtech-em"
     }
 ]
